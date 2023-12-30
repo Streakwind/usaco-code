@@ -5,3 +5,11 @@
 5. are you resetting all your variables after each iteration? (if needed)
 6. for double for loops: using m++ or i++?
 7. run through your code... does everything work?
+8. look are your if-statements/restrictions.. test these... are they right? are you missing anything?
+9. use cout throughout the code to make sure everythings right
+10. when using the min function, don't set the initial variable to 0, set it to INT32_MAX (usaco doesn't accept INT_MAX)
+11. do not erase values while iterating
+12. make sure nothing is able to go out of bounds.. especially with arrays, check max N, M, etc.
+13. read problem description... does it state to use a long long?
+14. in 2D vectors, the [i] is the vector in the vector and the m is the value in the list
+15. in a map<?, vector>, map[key] functions basically the same as a vector
