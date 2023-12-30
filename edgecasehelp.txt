@@ -1,0 +1,7 @@
+1. can there be a duplicate?
+2. what if everything is the same?
+3. what if the difference between the numbers is very small? (applies to some questions)
+4. are you covering the edge case for all of the code or just a specific part?
+5. are you resetting all your variables after each iteration? (if needed)
+6. for double for loops: using m++ or i++?
+7. run through your code... does everything work?
