@@ -15,3 +15,5 @@
 15. in a map<?, vector>, map[key] functions basically the same as a vector
 16. check where your for loop starts and ends: remember that using < or > means that the end is excluded
 17. when couting, check your entire code to see if there are any other couts that might've also been printed
+18. if "impossible" is a possible answer, think of ways that something can be impossible
+19. does changing one variable change the variables before it?
