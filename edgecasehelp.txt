@@ -13,3 +13,5 @@
 13. read problem description... does it state to use a long long?
 14. in 2D vectors, the [i] is the vector in the vector and the m is the value in the list
 15. in a map<?, vector>, map[key] functions basically the same as a vector
+16. check where your for loop starts and ends: remember that using < or > means that the end is excluded
+17. when couting, check your entire code to see if there are any other couts that might've also been printed
