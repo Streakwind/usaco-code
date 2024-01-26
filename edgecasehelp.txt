@@ -17,3 +17,5 @@
 17. when couting, check your entire code to see if there are any other couts that might've also been printed
 18. if "impossible" is a possible answer, think of ways that something can be impossible
 19. does changing one variable change the variables before it?
+20. check indices, which structures start with index 0 and which start with index 1?
+21. make up small test cases with random numbers, where everything is the same, negative numbers, "0", etc.
