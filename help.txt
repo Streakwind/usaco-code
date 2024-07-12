@@ -19,3 +19,4 @@
 19. does changing one variable change the variables before it?
 20. check indices, which structures start with index 0 and which start with index 1?
 21. make up small test cases with random numbers, where everything is the same, negative numbers, "0", etc.
+22. sometimes numberes are given as strings that are extremely big. if your problem involves using mod, using mod earlier in your code can help.
