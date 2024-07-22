@@ -22,3 +22,4 @@
 22. sometimes numberes are given as strings that are extremely big. if your problem involves using mod, using mod earlier in your code can help.
 23. avoid arrays
 24. if a number randomly changes its probably because of an array. three options to fix: add another array below, change number to a static, or make array into vector
+25. 2d array/vector: y comes first then x ex: arr[y][x] 
