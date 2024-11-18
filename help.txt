@@ -23,3 +23,5 @@
 23. avoid arrays
 24. if a number randomly changes its probably because of an array. three options to fix: add another array below, change number to a static, or make array into vector
 25. 2d array/vector: y comes first then x ex: arr[y][x] 
+26. when doing problems with long testcases, DO NOT HAVE EXTRANEOUS COUTS! They take a lot of time
+27. in problems like https://usaco.org/index.php?page=viewproblem2&cpid=858, where the last index will not be accounted for, account for the last index at first instead of trying to do it at the end (check the code for that problem)
