@@ -76,6 +76,7 @@ void Core () {
 
         _closed[_changeList[i]] = true;
 
+        //dfs on last barn because if you can't dfs on a barn that doesn't exist
         dfs(lastBarn);
 
         //i-1 because the first change is at index 0
